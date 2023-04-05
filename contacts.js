@@ -47,7 +47,7 @@ module.exports = {
   removeContact,
   addContact,
 };
-// listContacts();
+
 // const ID = "rsKkOQUi80UsgVPCcLZZW";
 // getContactById(ID);
 
